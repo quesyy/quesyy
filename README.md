@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil :) 🤎
 
-Meu nome é Quéren
+Meu nome é Quéren.
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
